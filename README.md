@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🌐 Certified Network Engineer and CCNA holder.
-- 🐍 Currently learning Python, Linux, DevOps, and Network Automation.
+- 🐧 Linux Certified (CompTIA Linux+).
+- 🐍 Currently working with and learning Python, Linux, DevOps, and Network Automation.
 - 📚 Working on my CCNP certification.
 - 💻 Running a home lab with Cisco Modeling Labs, routers, and switches.
 - 📍 Living in Chicago Metropolitan area 
