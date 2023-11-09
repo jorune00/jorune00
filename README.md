@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 - [GitHub Page](https://jorune00.github.io)
-- [LinkedIn](www.linkedin.com/in/johnnyheintz/)
+- [LinkedIn](linkedin.com/in/johnnyheintz)
 - [Twitter](https://twitter.com/Jorune00)
 
 ## My Projects
