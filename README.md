@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jorune00/jorune00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Johnny 👋
+
+## About Me
+- 🌐 Certified Network Engineer and CCNA holder.
+- 🐍 Currently learning Python, Linux, DevOps, and Network Automation.
+- 📚 Working on my CCNP certification.
+- 💻 Running a home lab with Cisco Modeling Labs, routers, and switches.
+- 📍 Living in Chicago Metropolitan area 
+- 😺 Proud parent of a Bengal cat, Maui.
+- 📻 Licensed GMRS radio hobbyist.
+
+## Connect with Me
+- [GitHub Page](https://jorune00.github.io)
+- [LinkedIn](linkedin.com/in/johnnyheintz)
+- [Twitter](https://twitter.com/Jorune00)
+
+## My Projects
+- [QR_code](https://github.com/jorune00/QR_code) - Need a QR generator
+- [Hex2Dec_quiz](https://github.com/jorune00/Hex2Dec_quiz) - Practice your hexidecimle to decimal. Good fun for any Network Engineer!
+
+Feel free to check out my repositories and don't hesitate to reach out!
+
