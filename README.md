@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## My Projects
 - [QR_code](https://github.com/jorune00/QR_code) - Need a QR generator?
-- [Hex2Dec_quiz](https://github.com/jorune00/Hex2Dec_quiz) - Practice your hexidecimle to decimal. Good fun for any Network Engineer!
+- [Hex2Dec_quiz](https://github.com/jorune00/Hex2Dec_quiz) - Practice your hexadecimal to decimal. Good fun for any Network Engineer!
 
 Feel free to check out my repositories and don't hesitate to reach out!
 
