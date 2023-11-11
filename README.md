@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🌐 Certified Network Engineer and CCNA holder.
-- 🐧 Linux Certified (CompTIA Linux+).
+- 🐧 Certified Linux Engineer (CompTIA Linux+).
 - 🐍 Currently working with and learning Python, Linux, DevOps, and Network Automation.
 - 📚 Working on my CCNP certification.
 - 💻 Running a home lab with Cisco Modeling Labs, routers, and switches.
 - 📍 Living in Chicago Metropolitan area 
 - 😺 Proud parent of a Bengal cat, Maui.
 - 📻 Licensed GMRS radio hobbyist.
+- 📫 [Contact and Social Media](https://jorune.dev)
 
 ## Connect with Me
 - [GitHub Page](https://jorune00.github.io)
