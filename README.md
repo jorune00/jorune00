@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # Hi there, I'm Johnny 👋
 
 ## About Me
-- 🌐 Certified Network Engineer and [CCNA](https://www.credly.com/badges/69ef68e1-3820-49b1-a9c3-27ed796bb36d/linked_in?t=rqpixm) holder.
-- 🐧 Certified Linux Engineer ([CompTIA Linux+](https://www.credly.com/badges/ebbdb1b2-20b2-4a75-ab79-37d75b90af24/linked_in_profile)).
+- 🌐 Certified Network Engineer and [CCNA](https://www.credly.com/badges/69ef68e1-3820-49b1-a9c3-27ed796bb36d) holder.
+- 🐧 Certified Linux Engineer ([CompTIA Linux+](https://www.credly.com/badges/ebbdb1b2-20b2-4a75-ab79-37d75b90af24)).
 - 💾 Raspberry Pi computer hobbyist
 - 🐍 Currently working with and learning Python, Linux, DevOps, and Network Automation.
 - 📚 Working on my CCNP certification.
